@@ -1,0 +1,113 @@
+{
+  "train_info": {
+    "title": "北京->上海",
+    "train_number": "车次1",
+    "license_plate": "川123"
+  },
+  "ticket_info": {
+    "time": "2023-06-13T15:00:00",
+    "total_amount": 0.00
+  },
+  "seat_levels": [
+    {
+      "level": "等级 1",
+      "alias": "class",
+      "price": 1.00,
+      "seats": [
+        {
+          "seat_number": "1",
+          "sold_out": false
+        },
+        {
+          "seat_number": "2",
+          "sold_out": true
+        },
+        {
+          "seat_number": "3",
+          "sold_out": false
+        },
+        {
+          "seat_number": "4",
+          "sold_out": true
+        },
+        {
+          "seat_number": "5",
+          "sold_out": false
+        },
+        {
+          "seat_number": "6",
+          "sold_out": true
+        },
+        {
+          "seat_number": "7",
+          "sold_out": false
+        },
+        {
+          "seat_number": "8",
+          "sold_out": true
+        },
+        {
+          "seat_number": "9",
+          "sold_out": false
+        },
+        {
+          "seat_number": "10",
+          "sold_out": true
+        },
+        {
+          "seat_number": "11",
+          "sold_out": false
+        },
+        {
+          "seat_number": "12",
+          "sold_out": false
+        },
+        {
+          "seat_number": "13",
+          "sold_out": false
+        },
+        {
+          "seat_number": "14",
+          "sold_out": false
+        },
+        {
+          "seat_number": "15",
+          "sold_out": false
+        },
+        {
+          "seat_number": "16",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "level": "等级 2",
+      "alias": "vip",
+      "price": 12.00,
+      "seats": [
+        {
+          "seat_number": "1A",
+          "sold_out": false
+        },
+        {
+          "seat_number": "2B",
+          "sold_out": false
+        },
+        {
+          "seat_number": "3C",
+          "sold_out": false
+        },
+        {
+          "seat_number": "4D",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "level": "vip",
+      "alias": "e",
+      "price": 13.00,
+      "seats": []
+    }
+  ]
+}
